@@ -77,7 +77,7 @@
 
 .vs-title{
   font-family:'Open Sans', sans-serif;
-  font-weight:300;
+  font-weight:200;
   text-transform:uppercase;
   font-size:clamp(22px,1.7vw,16px);
   letter-spacing:.08em;
